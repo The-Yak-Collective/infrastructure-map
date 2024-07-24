@@ -1,8 +1,8 @@
-# Yak Collective IT Infrastructure Map
+# Yak Collective IT infrastructure map
 
 Prototype documentation tool for [Yak Collective](https://yakcollective.org) [IT Infrastructure](https://roamresearch.com/#/app/ArtOfGig/page/6fhTlx1p_).
 
-## Symbol Key
+## Symbol key
 
 | Symbol              | Macro              | Meaning                                                                                |
 |:-------------------:|:------------------:|:-------------------------------------------------------------------------------------- |
